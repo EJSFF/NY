@@ -19,4 +19,4 @@ In 2017, only 561 farms in New York state had herd sizes over 200 cows.
 
 
 Notes:
-Key, Nigel, Stacy Sneeringer, and David Marquardt. Climate Change, Heat Stress, and U.S. Dairy Production, ERR-175, U.S. Department of Agriculture, Economic Research Service, September 2014. https://www.ers.usda.gov/webdocs/publications/45279/49164_err175.pdf?v=4739
+[^1]: Key, Nigel, Stacy Sneeringer, and David Marquardt. Climate Change, Heat Stress, and U.S. Dairy Production, ERR-175, U.S. Department of Agriculture, Economic Research Service, September 2014. https://www.ers.usda.gov/webdocs/publications/45279/49164_err175.pdf?v=4739
