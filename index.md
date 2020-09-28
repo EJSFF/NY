@@ -2,14 +2,11 @@
 
 ## Climate change will continue to pose threats to dairies.
 
- In 2010, heat stress lowered the value of annual milk production for the average dairy by about $39,000, which equates to $1.2 billion in lost production for the entire dairy sector[^1].   file:///Users/mustafasaifuddin/Downloads/ClimAID-Agriculture.pdf
- Climate Change and Dairy in New York and
-Wisconsin: Risk Perceptions, Vulnerability,
-and Adaptation among Farmers and Advisors
-David Lane 1,* , Evan Murdock 2
-, Ken Genskow 2
-, Carolyn Rumery Betz 3 and
-Allison Chatrchyan 4
+Climate change will pose direct threats to milk production at dairies through the impact of heat stress on dairy cows, which are particularly sensitive to heat, as well as indirectly through impacts on feed production. Dairy cows undergo physiological changes in order to cope with heat stress, and these result in declines in milk production as well as changes in milk quality. Under heat stress, dairy cows produce milk with reduced fat and protein content. (Kadzere et al., 2002; St-Pierre et al., 2003; West, 2003). Heat stress additionally results in decreased calving and greater vulnerability to other health risks. if stressful conditions occur for even a few days
+during critical periods, the impacts may persist for many months. Early-lactation cows are most susceptible to the effects of heat stress, and the impact could persist for the complete lactation.
+
+The effects of heat stress on milk production are already visible, and will continue to be exacerbated by climate change. According to data from the USDA ERS, heat stress was responsible for losses of approximately $39,000 in annual milk production for the average U.S. dairy in 2010. This corresponds to $1.2 billion in lost production for the entire dairy sector [^1]. Projections of increasing heat stress on dairy production suggest that these losses will rise. According to a report from Cornell, milk production is estimated to fall by 248-437 pounds per cow per year, with projected end-of-century economic losses associated with heat stress at approximately $37-$66 per cow per year. [https://www.nyserda.ny.gov/-/media/Files/Publications/Research/Environmental/EMEP/climaid/ClimAID-Agriculture.pdf
+
 
 ## 12% of dairies account for nearly 70% of New York's dairy cow population.
 In 2017, only 561 farms in New York state had herd sizes over 200 cows.
