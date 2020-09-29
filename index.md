@@ -30,6 +30,9 @@ Interventions earlier in the lifecycle of manure production and management are m
 Following production and storage of manure, several choices determine the degree to which nitrogen contained in manure contributes to greenhouse gas emissions relative to its potential recycling as fertilizer. Improving the timing and rate of application to maximize plant uptake and stabilization of applied manure can help reduce nitrous oxide emissions and prevent runoff of excess nitrogen. Additionally, there is limited potential for the use of additives to manure to slow the release of inorganic nitrogen (e.g. nitrification and urease inhibitors).
  ![Alt Text](https://github.com/EJSFF/NY/blob/gh-pages/manurefigure.jpg)
  
+  ![Alt Text](manurefigure.jpg)
+    ![Alt Text](/manurefigure.jpg)
+ 
 <img src="https://github.com/EJSFF/NY/blob/gh-pages/manurefigure.jpg" style="display: block; margin: auto;" />
 
 ## *GOING TO DELETE BUT THIS IS A NY-SPECIFIC WATERFALL IF WE WANT TO ADD AN ADDITIONAL SECTION ON IT?:
