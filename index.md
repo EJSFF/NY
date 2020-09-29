@@ -3,6 +3,9 @@
 ## New York State Agricultural Emissions 
 Livestock activities are associated with the bulk of agricultural greenhouse gases in New York. Manure management released 1.3 MMT CO2eq in 2016 as methane and nitrous oxide, while enteric fermentation released 3.6 MMT CO2eq in 2016 as methane. Soil management released 4.0 MMT in 2016 as nitrous oxide. 
 
+<iframe title="NY State Greenhouse Gas Emissions and Mitigation Opportunities" aria-label="Arrow Plot" id="datawrapper-chart-25OVv" src="https://datawrapper.dwcdn.net/25OVv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="320"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 ## Climate change will continue to pose threats to dairies.
 
 Climate change will pose direct threats to milk production at dairies through the impact of heat stress on dairy cows, which are particularly sensitive to heat, as well as indirectly through impacts on feed production. Dairy cows undergo physiological changes in order to cope with heat stress, and these result in declines in milk production as well as changes in milk quality. Under heat stress, dairy cows produce milk with reduced fat and protein content. (Kadzere et al., 2002; St-Pierre et al., 2003; West, 2003). Heat stress additionally results in decreased calving and greater vulnerability to other health risks. if stressful conditions occur for even a few days
