@@ -1,5 +1,8 @@
 ## New York is the third largest dairy-producing state, responsible for more than half of US milk production.
 
+## New York State Agricultural Emissions 
+Livestock activities are associated with the bulk of agricultural greenhouse gases in New York. Manure management released 1.3 MMT CO2eq in 2016 as methane and nitrous oxide, while enteric fermentation released 3.6 MMT CO2eq in 2016 as methane. Soil management released 4.0 MMT in 2016 as nitrous oxide. 
+
 ## Climate change will continue to pose threats to dairies.
 
 Climate change will pose direct threats to milk production at dairies through the impact of heat stress on dairy cows, which are particularly sensitive to heat, as well as indirectly through impacts on feed production. Dairy cows undergo physiological changes in order to cope with heat stress, and these result in declines in milk production as well as changes in milk quality. Under heat stress, dairy cows produce milk with reduced fat and protein content. (Kadzere et al., 2002; St-Pierre et al., 2003; West, 2003). Heat stress additionally results in decreased calving and greater vulnerability to other health risks. if stressful conditions occur for even a few days
