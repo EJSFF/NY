@@ -28,12 +28,8 @@ Reducing the production and concentration of manure itself — for example, thro
 Interventions earlier in the lifecycle of manure production and management are more effective than those that only address resulting emissions at their source. While reducing the magnitude of manure produced is the only option for avoiding emissions altogether, additional strategies can mitigate emissions from produced manure across its lifecycle from production through application (See Figure). These include interventions designed to capture emissions or prevent conditions under which greenhouse gas emissions are intensified, such as separation of solids to reduce their contribution to methane emissions under anerobic conditions, aerating stored manure to prevent wet conditions, or potentially acidifying manure to reduce methane and ammonia emissions. An additional series of interventions can be adopted to improve the storage of manure to reduce emissions and mitigate air and water pollution concerns. These strategies include decreasing storage time and temperature, ensuring manure is located in sealed, covered and lined conditions, and flaring emissions from these containers to oxidize methane.  
 
 Following production and storage of manure, several choices determine the degree to which nitrogen contained in manure contributes to greenhouse gas emissions relative to its potential recycling as fertilizer. Improving the timing and rate of application to maximize plant uptake and stabilization of applied manure can help reduce nitrous oxide emissions and prevent runoff of excess nitrogen. Additionally, there is limited potential for the use of additives to manure to slow the release of inorganic nitrogen (e.g. nitrification and urease inhibitors).
- ![Alt Text](https://github.com/EJSFF/NY/blob/gh-pages/manurefigure.jpg)
- 
+
   ![Alt Text](manurefigure.jpg)
-    ![Alt Text](/manurefigure.jpg)
- 
-<img src="https://github.com/EJSFF/NY/blob/gh-pages/manurefigure.jpg" style="display: block; margin: auto;" />
 
 ## *GOING TO DELETE BUT THIS IS A NY-SPECIFIC WATERFALL IF WE WANT TO ADD AN ADDITIONAL SECTION ON IT?:
 <iframe title="NY State Greenhouse Gas Emissions and Mitigation Opportunities" aria-label="Arrow Plot" id="datawrapper-chart-25OVv" src="https://datawrapper.dwcdn.net/25OVv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="302"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
