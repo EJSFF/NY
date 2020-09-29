@@ -21,6 +21,7 @@ The effects of heat stress on milk production are already visible, and will cont
 </script>
 
 ## Mitigating livestock GHG emissions will require a suite of approaches.
+![](https://github.com/EJSFF/NY/blob/gh-pages/manurefigure.jpg)
 
 ## Should we include this?? 
 <iframe title="NY State Greenhouse Gas Emissions and Mitigation Opportunities" aria-label="Arrow Plot" id="datawrapper-chart-25OVv" src="https://datawrapper.dwcdn.net/25OVv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="302"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
