@@ -31,6 +31,8 @@ While New York dairies are not likely to experience heat stress as severely as s
 Greenhouse gas emissions from dairies are generated across a series of management decisions 
 [reviewed in Montes et al 2013](https://doi.org/10.2527/jas.2013-6584). To most effectively reduce greenhouse gas emissions, interventions should be designed to prioritize reducing the maginitude of manure production and optimize manure storage. Ultimately, anaverted emissions can be flared to mitigate their global warming potential [(Wightman and Woodbury 2016).](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/jeq2014.06.0269)
 
+  ![Alt Text](manurefigure.jpg)
+
 #### 1. Reduce the production of manure to avoid generating emissions
 Interventions earlier in the lifecycle of manure production and management are more effective than those that only address emissions upon production. Reducing the production and concentration of manure itself — for example, through altering animal feed diets to improve production efficiency — is the only strategy to curb manure production and reduce the magnitude of emissions from this source. These strategies should be a top priority for adoption as they reduce the quantity of manure required to treat, in contrast to mitigating strategies that only address emissions and pollution from already-produced manure.  
 
@@ -42,8 +44,6 @@ Operations should be required to separate manure into solid and liquid fractions
 #### 3. Oxidize unavoidable emissions to reduce their global warming potential
 Flaring methane emissions from the covered liquid fraction provides a strategy to mitigate emissions of methane, while also avoiding nitrous emissions which would occur under dry conditions. In contrast to the high costs of biodigesters, capture and flare of methane from dairy operations was estimated to cost 0.005 per liter of milk in NY state, or $380,000 for a dairy with 1000 milking cows. This translates to approximately $8.63 per Mg CO2eq, compared to estimates of $140-170/Mg CO2eq for biodigester operations [(Wightman and Woodbury 2016).](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/jeq2014.06.0269) 
 
-  ![Alt Text](manurefigure.jpg)
 
 
-
-Prepared by the Sustainable Food and Farming Program at Earthjustice (msaifuddin@earthjustice.org).
+*Prepared by the Sustainable Food and Farming Program at Earthjustice (msaifuddin@earthjustice.org).
