@@ -44,6 +44,7 @@ Operations should be required to separate manure into solid and liquid fractions
 #### 3. Oxidize unavoidable emissions to reduce their global warming potential
 Flaring methane emissions from the covered liquid fraction provides a strategy to mitigate emissions of methane, while also avoiding nitrous emissions which would occur under dry conditions. In contrast to the high costs of biodigesters, capture and flare of methane from dairy operations was estimated to cost 0.005 per liter of milk in NY state, or $380,000 for a dairy with 1000 milking cows. This translates to approximately $8.63 per Mg CO2eq, compared to estimates of $140-170/Mg CO2eq for biodigester operations [(Wightman and Woodbury 2016).](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/jeq2014.06.0269) 
 
+Reducing the disprortionately large contribution of livestock to New York state greenhouse gas emissions will require adopting a suite of mitigating strategies, including the ones described above and others, to address the full the lifecycle of greenhouse gas production.
 
 
-*Prepared by the Sustainable Food and Farming Program at Earthjustice (msaifuddin@earthjustice.org).
+*Working draft prepared by the Sustainable Food and Farming Program at Earthjustice (msaifuddin@earthjustice.org).
