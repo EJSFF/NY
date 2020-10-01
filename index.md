@@ -47,4 +47,4 @@ Flaring methane emissions from the covered liquid fraction provides a strategy t
 Reducing the disprortionately large contribution of livestock to New York state greenhouse gas emissions will require adopting a suite of mitigating strategies, including the ones described above and others, to address the full the lifecycle of greenhouse gas production.
 
 
-*Working draft prepared by the Sustainable Food and Farming Program at Earthjustice (msaifuddin@earthjustice.org).
+*Working draft prepared by the Sustainable Food and Farming Program at Earthjustice.
