@@ -6,7 +6,7 @@ Manure management and enteric fermentation from livestock account for more than 
 > *As shown below, in 2016:* 
 > * Manure management released 1.3 million metric tons of CO2 equivalents (MMT CO2eq) as methane and nitrous oxide.
 > * Enteric fermentation released 3.6 MMT CO2eq as methane. 
-> * Soil management released 4.0 MMT as nitrous oxide.
+> * Soil management released 4.0 MMT CO2eq as nitrous oxide.
 
 <iframe title="NEW YORK AGRICULTURAL EMISSIONS" aria-label="Interactive area chart" id="datawrapper-chart-ANmHa" src="https://datawrapper.dwcdn.net/ANmHa/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
@@ -20,7 +20,7 @@ The effects of heat stress on milk production are already visible and will conti
 
 While New York dairies are not likely to experience heat stress as severely as southern states, projections for NY dairies still show sizable losses. According to [NYSERDA's climAID report](https://www.nyserda.ny.gov/-/media/Files/Publications/Research/Environmental/EMEP/climaid/ClimAID-Agriculture.pdf), milk production is estimated to fall by 122-245 pounds per cow per year by 2050, with projected economic losses associated with heat stress at approximately $18-$37 per cow per year. [A 2019 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438606/) suggests that heat stress may result in declines of 11.6% in mean annual milk production per cow by 2050 and mean declines of 20.8% by the end of the century at the national scale.
 
-## New York dairies are increasingly consolidated, with a few large farms carrying large herds.
+## New York dairies are increasingly consolidated, with a few large farms responsible for the majority of agriculture's climate impact.
 12% of New York dairies account for nearly 70% of New York's dairy cow population. In 2017, only 561 farms in New York state had herd sizes over 200 cows. These operations are responsible for the bulk of methane emissions from animal agriculture. Integrating mitigating strategies to reduce emissions from these operations has the potential to reduce overall state emissions. 
 
 <iframe title="NY State Milk Cow Inventory" aria-label="Interactive area chart" id="datawrapper-chart-WxmCn" src="https://datawrapper.dwcdn.net/WxmCn/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
