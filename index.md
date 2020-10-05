@@ -8,7 +8,7 @@ Manure management and enteric fermentation from livestock account for more than 
 > * Enteric fermentation released 3.6 MMT CO2eq as methane. 
 > * Soil management released 4.0 MMT CO2eq as nitrous oxide.
 
-<iframe title="NEW YORK AGRICULTURAL EMISSIONS" aria-label="Interactive area chart" id="datawrapper-chart-ANmHa" src="https://datawrapper.dwcdn.net/ANmHa/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="NEW YORK AGRICULTURAL EMISSIONS" aria-label="Interactive area chart" id="datawrapper-chart-ANmHa" src="https://datawrapper.dwcdn.net/ANmHa/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ## Climate change poses unique threats to New York animal agriculture.
