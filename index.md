@@ -11,6 +11,8 @@ Manure management and enteric fermentation from livestock account for more than 
 <iframe title="NEW YORK AGRICULTURAL EMISSIONS" aria-label="Interactive area chart" id="datawrapper-chart-ANmHa" src="https://datawrapper.dwcdn.net/ANmHa/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+***
+
 ## Climate change poses unique threats to New York animal agriculture.
 New York is the third largest dairy-producing state [(USDA ERS 2014)](https://www.ers.usda.gov/webdocs/publications/47162/17864_sb978_1_.pdf?v=2625.5), and dairy operations are particularly vulnerable to growing threats from climate change. The dairy sector experiences the largest losses from heat stress compared to other livestock industries [St Pierre et al. 2003](https://www.journalofdairyscience.org/article/S0022-0302%2803%2974040-5/abstract). Increasingly frequent periods of heat stress negatively impact the health of dairy cows, while also impacting feed production. 
 
@@ -20,11 +22,15 @@ The effects of heat stress on milk production are already visible and will conti
 
 While New York dairies are not likely to experience heat stress as severely as southern states, projections for NY dairies still show sizable losses. According to [NYSERDA's climAID report](https://www.nyserda.ny.gov/-/media/Files/Publications/Research/Environmental/EMEP/climaid/ClimAID-Agriculture.pdf), milk production is estimated to fall by 122-245 pounds per cow per year by 2050, with projected economic losses associated with heat stress at approximately $18-$37 per cow per year. [A 2019 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438606/) suggests that heat stress may result in declines of 11.6% in mean annual milk production per cow by 2050 and mean declines of 20.8% by the end of the century at the national scale.
 
+***
+
 ## New York dairies are increasingly consolidated, with a few large farms responsible for the majority of agriculture's climate impact.
 12% of New York dairies account for nearly 70% of New York's dairy cow population. In 2017, only 561 farms in New York state had herd sizes over 200 cows. These operations are responsible for the bulk of methane emissions from animal agriculture. Integrating mitigating strategies to reduce emissions from these operations has the potential to reduce overall state emissions. 
 
 <iframe title="NY State Milk Cow Inventory" aria-label="Interactive area chart" id="datawrapper-chart-WxmCn" src="https://datawrapper.dwcdn.net/WxmCn/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+***
 
 ## Mitigating livestock greenhouse emissions will require a suite of approaches across the production lifecycle.
 Greenhouse gas emissions from dairies are generated across a series of management decisions 
