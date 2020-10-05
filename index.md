@@ -3,7 +3,7 @@
 
 Manure management and enteric fermentation from livestock account for more than half of total agricultural greenhouse gas emissions, while nitrous oxide emissions from soil management accounts for the remainder. Reducing the climate footprint of agriculture in New York will require mitigating methane emissions from livestock activities, reducing nitrogen emissions from croplands, and promoting the adoption of activities which sequester carbon. Additionally, reducing food waste and increasing composting programs will be important for reducing the overall climate impact of the food system. Landfills are responsible for 10.6% of methane emissions in New York, and a large proportion of these emissions can be tied to food waste.
 
-> *As shown below, in 2016:* 
+> As shown below, in 2016: 
 > * Manure management released 1.3 million metric tons of CO2 equivalents (MMT CO2eq) as methane and nitrous oxide.
 > * Enteric fermentation released 3.6 MMT CO2eq as methane. 
 > * Soil management released 4.0 MMT CO2eq as nitrous oxide.
