@@ -8,6 +8,7 @@ Manure management and enteric fermentation from livestock account for more than 
 > * Enteric fermentation released 3.6 MMT CO2eq as methane. 
 > * Soil management released 4.0 MMT CO2eq as nitrous oxide.
 
+
 <iframe title="NEW YORK AGRICULTURAL EMISSIONS" aria-label="Interactive area chart" id="datawrapper-chart-ANmHa" src="https://datawrapper.dwcdn.net/ANmHa/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
@@ -25,10 +26,11 @@ While New York dairies are not likely to experience heat stress as severely as s
 ***
 
 ## New York dairies are increasingly consolidated, with a few large farms responsible for the majority of agriculture's climate impact.
-12% of New York dairies account for nearly 70% of New York's dairy cow population. In 2017, only 561 farms in New York state had herd sizes over 200 cows. These operations are responsible for the bulk of methane emissions from animal agriculture. Integrating mitigating strategies to reduce emissions from these operations has the potential to reduce overall state emissions. 
+12% of New York dairies account for nearly 70% of New York's dairy cow population. In 2017, only 561 farms in New York state had herd sizes over 200 cows. These operations are responsible for the bulk of methane emissions from animal agriculture.  
 
 <iframe title="NY State Milk Cow Inventory" aria-label="Interactive area chart" id="datawrapper-chart-WxmCn" src="https://datawrapper.dwcdn.net/WxmCn/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
 
 ***
 
@@ -38,7 +40,7 @@ Greenhouse gas emissions from dairies are generated across a series of managemen
 
   ![Alt Text](manurefigure.jpg)
 
-#### 1. Reduce the production of manure to avoid generating emissions
+#### 1. Reduce the concentration and quantity of manure produced to avoid generating emissions
 Interventions earlier in the lifecycle of manure production and management are more effective than those that only address emissions upon production. Reducing the production and concentration of manure itself — for example, through altering animal feed diets to improve production efficiency — is the only strategy to curb manure production itself and reduce the magnitude of emissions from this source. These strategies should be a top priority for adoption as they reduce the quantity of manure required to treat, in contrast to mitigating strategies that only address emissions and pollution from already-produced manure.  
 
 #### 2. Manage manure storage to reduce emission generation
