@@ -1,3 +1,5 @@
+# REDUCING THE CLIMATE FOOTPRINT OF NEW YORK ANIMAL AGRICULTURE
+
 ## Agricultural activities are responsible for a large proportion of New York state's nitrous oxide and methane emissions.
 ### Agricultural activities account for 75% of New York's nitrous oxide emissions and at least 23% of the state's methane emissions. 
 
