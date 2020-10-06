@@ -26,7 +26,7 @@ While New York dairies are not likely to experience heat stress as severely as s
 ***
 
 ## New York dairies are increasingly consolidated, with a few large farms responsible for the majority of agriculture's climate impact.
-12% of New York dairies account for nearly 70% of New York's dairy cow population. In 2017, only 561 farms in New York state had herd sizes over 200 cows. These operations are responsible for the bulk of methane emissions from animal agriculture.  
+12% of New York dairies account for nearly 70% of New York's dairy cow population. In 2017, only 561 farms in New York state had herd sizes over 200 cows. These large operations produce more manure than can be easily be incorporated into soil, and they are responsible for the bulk of methane emissions from animal agriculture in New York. Transitioning away from high density dairies to pasture-based systems can eliminate or reduce the need for manure storage and reduce the climate footrpint of dairy farms (e.g. [Ribeiro-Filho et al. 2020,]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234687) [van der Weerden et al. 2018,](https://dx.doi.org/10.3390%2Fani8120234) []())
 
 <iframe title="NY State Milk Cow Inventory" aria-label="Interactive area chart" id="datawrapper-chart-WxmCn" src="https://datawrapper.dwcdn.net/WxmCn/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
@@ -36,7 +36,7 @@ While New York dairies are not likely to experience heat stress as severely as s
 
 ## Mitigating livestock greenhouse emissions will require a suite of approaches across the production lifecycle.
 Greenhouse gas emissions from dairies are generated across a series of management decisions 
-[(reviewed in Montes et al 2013).](https://doi.org/10.2527/jas.2013-6584). To most effectively reduce greenhouse gas emissions, interventions should be designed to prioritize reducing the magnitude of manure production and optimize manure storage conditions. Ultimately, unaverted emissions can be flared to convert methane to carbon dioxide, thereby reducing their global warming potential [(Wightman and Woodbury 2016).](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/jeq2014.06.0269)
+[(reviewed in Montes et al 2013).](https://doi.org/10.2527/jas.2013-6584). To most effectively reduce greenhouse gas emissions, interventions should be designed to prioritize reducing the magnitude of manure production and optimize manure storage conditions. Reducing the concentration of dairy production through transitions to pasture-based systems can help keep manure production at more easily manageable levels. Ultimately, unaverted emissions can be flared to convert methane to carbon dioxide, thereby reducing their global warming potential [(Wightman and Woodbury 2016).](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/jeq2014.06.0269)
 
   ![Alt Text](manurefigure.jpg)
 
